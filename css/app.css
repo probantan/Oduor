@@ -18,6 +18,7 @@ ul{
 body {
   font-family: Helvetica Neue, Ariel;
   font-size: 18px;
+  background-color: rgba(255, 255, 128, .5);
 }
 
 p {
@@ -25,14 +26,11 @@ p {
   text-align: justify;
 }
 .main-text{
-  text-align: justify;
+  text-align:justify;
 }
-
-* {
-  margin:0;
-  padding:0;
-  box-sizing: boarder-box;
+.cl{
+  color: rebeccapurple;
 }
-hi {
-  font-size: 40;
+.cat{
+background-color: rgba(255, 255, 128, .5); 
 }
