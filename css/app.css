@@ -1,12 +1,26 @@
-h1{
+h1 {
   color:green;
 }
-h2{
+h2 {
   color:black;
 }
-h3{
-  color:green;
+h3 {
+  color:blue;
 }
-p{
+p {
   font-size: 120%
+}
+
+ul{
+  color: purple;
+}
+
+body {
+  font-family: Helvetica Neue, Ariel;
+  font-size: 18px;
+}
+
+p {
+  text-indent: 50px;
+  text-align: justify;
 }
