@@ -27,3 +27,12 @@ p {
 .main-text{
   text-align: justify;
 }
+
+* {
+  margin:0;
+  padding:0;
+  box-sizing: boarder-box;
+}
+hi {
+  font-size: 40;
+}
