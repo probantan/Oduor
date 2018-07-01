@@ -36,10 +36,14 @@ p {
 }
 .cl{
   color: rebeccapurple;
+background-color: rgba(255, 255, 128, .5);
 }
 .cat{
 background-color: rgba(255, 255, 128, .5);
 }
 .main-text {
   text-align: justify;
+}
+ol{
+color: initial;
 }
