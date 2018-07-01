@@ -17,6 +17,8 @@ p {
 
 ul{
   color: purple;
+  font-weight: bold;
+  font-size: 20px;
 }
 
 body {
@@ -37,4 +39,7 @@ p {
 }
 .cat{
 background-color: rgba(255, 255, 128, .5);
+}
+.main-text {
+  text-align: justify;
 }
