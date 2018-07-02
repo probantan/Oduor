@@ -1,8 +1,12 @@
 h1 {
   color:green;
+  text-align: center;
 }
 h2 {
   color:black;
+  text-align: center;
+  font-style: italic;
+  font-size: 30px;
 }
 h3 {
   color:blue;
@@ -13,6 +17,8 @@ p {
 
 ul {
   color: purple;
+  font-weight: bold;
+  font-size: 20px;
 }
 
 body {
@@ -30,7 +36,17 @@ p {
 }
 .cl{
   color: rebeccapurple;
+background-color: rgba(255, 255, 128, .5);
 }
 .cat{
 background-color: rgba(255, 255, 128, .5);
+<<<<<<< HEAD
+=======
+}
+.main-text {
+  text-align: justify;
+}
+ol{
+color: initial;
+>>>>>>> protus
 }
